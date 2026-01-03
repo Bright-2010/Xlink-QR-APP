@@ -7,3 +7,6 @@ This project can make your STM32108t6 device have app-like functions
 2. Compile the project.
 
 This project may not be fully complete. If you have any modifications or suggestions, you can modify the code in a new branch.
+
+## other
+This project is assisted by AI in its development.
